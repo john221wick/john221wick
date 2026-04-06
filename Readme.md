@@ -39,7 +39,7 @@ I build AI, infra, and Linux-based systems.
 - [CI/CD with GitHub Actions](https://drive.google.com/file/d/1htT-SGF-kki7OoOGM35c-v4QK4yc-DWI/view?usp=sharing) — KodeKloud, January 2024
 - [Shell Programming (Bash)](https://drive.google.com/file/d/1iqvRKZ-0Se7YdxJ3Ix4CQqRl53qY5_P3/view?usp=sharing) — KodeKloud, August 2023
 - [Git and GitHub](https://drive.google.com/file/d/1N12gQIwJPEHUtVZhEdqbc1JI43r5u112/view?usp=sharing) — KodeKloud, August 2023
-- [Pre Security Learning Path](https://drive.google.com/file/d/1BWmUjpT0vEYf6xWWVT8wdaNmOX5aEipU/view?usp=sharing) — KodeKloud, June 2023
+- [Pre Security Learning Path](https://drive.google.com/file/d/1BWmUjpT0vEYf6xWWVT8wdaNmOX5aEipU/view?usp=sharing) — TryHackme, June 2023
 
 
 ## Platforms
