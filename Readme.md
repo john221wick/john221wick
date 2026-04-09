@@ -2,18 +2,21 @@
 
 I build AI, infra, and Linux-based systems.
 
-## Current Projects
+## Ongoing Projects
 
 - [Code Executor](https://github.com/john221wick/c-executor) —  Code executor for running untrusted code, No containers, VMs, Native support for gpus.
-- [GPU Scheduler for ML Workloads](https://github.com/john221wick/rl-gpu-schedular) — RL environment for simulated GPU scheduling of mixed training and inference jobs.
+- [RL environment GPU Scheduler](https://github.com/john221wick/rl-gpu-schedular) — RL environment for simulated GPU scheduling of mixed training and inference jobs.
 - [GPU Orchestrator](https://github.com/john221wick/gpu-orchestrator) — Built a SLURM-like topology-aware GPU scheduler for multi-GPU servers (single node).
+- [Building PyTorch](https://github.com/john221wick/making-pytorch) — understanding deep learning frameworks by implementing core components.
+- [Custom kernels for LLMs](https://github.com/john221wick/customKernelLLMs) — basic benchmarking kernel backends against a GPT model, from torch to Triton to raw CUDA.
+
+## Old Projects
+
 - [Agentic CI/CD](https://github.com/john221wick/agentic-ci-cd) — intelligent CI/CD pipelines with AI agents for automated testing and deployment.
 - [Building miniGPT](https://github.com/john221wick/building-llm) — building a GPT model from scratch to understand transformer architecture deeply.
 - [Compiler From Scratch](https://github.com/john221wick/mycompiler) — building a compiler end to end, from lexing and parsing to IR design and code generation.
 - [GPU Programming](https://github.com/john221wick/gpu-programming) — exploring CUDA and GPU computing for high-performance parallel processing.
-- [Building PyTorch](https://github.com/john221wick/making-pytorch) — understanding deep learning frameworks by implementing core components.
 - [Building RAG](https://github.com/john221wick/RAGfromscratch) — understanding RAG by implementing Naive RAG, Multi Query, RAG-Fusion, Decomposition, Step-Back, HyDE, CRAG, and Self-RAG in langchain.
-- [Custom kernels for LLMs](https://github.com/john221wick/customKernelLLMs) — basic benchmarking kernel backends against a GPT model, from torch to Triton to raw CUDA.
 
 ## Selected Product Work
 
