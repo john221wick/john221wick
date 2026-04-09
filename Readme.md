@@ -12,6 +12,7 @@ I build AI, infra, and Linux-based systems.
 - [Compiler From Scratch](https://github.com/john221wick/mycompiler) — building a compiler end to end, from lexing and parsing to IR design and code generation.
 - [GPU Programming](https://github.com/john221wick/gpu-programming) — exploring CUDA and GPU computing for high-performance parallel processing.
 - [Building PyTorch](https://github.com/john221wick/making-pytorch) — understanding deep learning frameworks by implementing core components.
+- [Building RAG](https://github.com/john221wick/RAGfromscratch) — understanding RAG by implementing Naive RAG, Multi Query, RAG-Fusion, Decomposition, Step-Back, HyDE, CRAG, and Self-RAG in langchain.
 
 ## Selected Product Work
 
