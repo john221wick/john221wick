@@ -13,6 +13,7 @@ I build AI, infra, and Linux-based systems.
 - [GPU Programming](https://github.com/john221wick/gpu-programming) — exploring CUDA and GPU computing for high-performance parallel processing.
 - [Building PyTorch](https://github.com/john221wick/making-pytorch) — understanding deep learning frameworks by implementing core components.
 - [Building RAG](https://github.com/john221wick/RAGfromscratch) — understanding RAG by implementing Naive RAG, Multi Query, RAG-Fusion, Decomposition, Step-Back, HyDE, CRAG, and Self-RAG in langchain.
+- [Custom kernels for LLMs](https://github.com/john221wick/customKernelLLMs) — basic benchmarking kernel backends against a GPT model, from torch to Triton to raw CUDA.
 
 ## Selected Product Work
 
