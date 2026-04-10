@@ -25,7 +25,9 @@ I build AI, infra, and Linux-based systems.
 - [Hiring Platform](https://project-xtest.vercel.app) — interview platform based on real-life coding challenges.
 - [Daily Updates Platform](https://prepozone.com/) — high-signal updates across news, jobs, and results.
 - [Boilerplate Generator](https://codegen-k5yp.vercel.app) — generates boilerplate from stack, architecture, and app requirements.
-
+- [Perplexity clone](https://perplexity-clone-gamma.vercel.app/) — generates boilerplate from stack, architecture, and app requirements.
+- [LawGPT](https://law-gpt-eta.vercel.app/) — practice law with ai.(Smart India Hackathon Project)
+  
 ## Selected Certifications
 
 - [Deep Learning](https://drive.google.com/file/d/1MQ6OE30keXZi5iFZ8qNmST9ob8cBcn23/view?usp=sharing) — IIT Ropar, November 2022
