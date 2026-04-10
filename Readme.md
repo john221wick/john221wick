@@ -26,7 +26,7 @@ I build AI, infra, and Linux-based systems.
 - [Daily Updates Platform](https://prepozone.com/) — high-signal updates across news, jobs, and results.
 - [Boilerplate Generator](https://codegen-k5yp.vercel.app) — generates boilerplate from stack, architecture, and app requirements.
 - [Perplexity clone](https://perplexity-clone-gamma.vercel.app/) — generates boilerplate from stack, architecture, and app requirements.
-- [LawGPT](https://law-gpt-eta.vercel.app/) — practice law with ai.(Smart India Hackathon Project)
+- [LawGPT](https://law-gpt-eta.vercel.app/) — practice law with ai (Smart India Hackathon Project)
   
 ## Selected Certifications
 
