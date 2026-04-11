@@ -10,7 +10,8 @@ I build AI, infra, and Linux-based systems.
 - [Building PyTorch](https://github.com/john221wick/making-pytorch) — understanding deep learning frameworks by implementing core components.
 - [Custom kernels for LLMs](https://github.com/john221wick/customKernelLLMs) — basic benchmarking kernel backends against a GPT model, from torch to Triton to raw CUDA.
 - [Sandbox for agents](https://github.com/john221wick/agentSandbox) — custom, secure, isolated sandbox for DeepAgents, built without containers or VMs and adhering to the SandboxBackendProtocol.
-
+- [RL environment for code optimization](https://github.com/john221wick/rl-codePerf) - openEnv Environment for RL-Based Code Optimization using perf, valgrind etc.
+  
 ## Old Projects
 
 - [Agentic CI/CD](https://github.com/john221wick/agentic-ci-cd) — intelligent CI/CD pipelines with AI agents for automated testing and deployment.
