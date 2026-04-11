@@ -24,8 +24,9 @@ I build AI, infra, and Linux-based systems.
 
 - [CP Platform](https://cp.john221wick.in) — competitive programming platform with code execution, judging, problem authoring, and leaderboards.
 - [Interview Platform](https://chat.john221wick.in) — interview prep platform with mock rounds, feedback loops, and progress tracking.
-- [Hiring Platform](https://project-xtest.vercel.app) — interview platform based on real-life coding challenges.
 - [Daily Updates Platform](https://prepozone.com/) — high-signal updates across news, jobs, and results.
+- [AI-UPSC Platform](https://ai.prepozone.com/) — ai for answer writing and evaluation for upsc.
+- [Hiring Platform](https://project-xtest.vercel.app) — interview platform based on real-life coding challenges
 - [Boilerplate Generator](https://codegen-k5yp.vercel.app) — generates boilerplate from stack, architecture, and app requirements.
 - [Perplexity clone](https://perplexity.john221wick.in/) — perplexity clone with features like deepsearch, article writing, (computer use coming soon via deepagents)
 - [LawGPT](https://lawgpt.john221wick.in/) — practice law with ai (Smart India Hackathon 2024 Project)
