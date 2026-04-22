@@ -5,11 +5,11 @@ I build AI, infra, and Linux-based systems.
 ## Ongoing Projects
 
 - [Code Executor](https://github.com/john221wick/c-executor) —  Code executor for running untrusted code, No containers, VMs, Native support for gpus.
-- [RL environment GPU Scheduler](https://github.com/john221wick/rl-gpu-schedular) — RL environment for simulated GPU scheduling of mixed training and inference jobs.
 - [GPU Orchestrator](https://github.com/john221wick/gpu-orchestrator) — Built a SLURM-like topology-aware GPU scheduler for multi-GPU servers (single node).
 - [Building PyTorch](https://github.com/john221wick/making-pytorch) — understanding deep learning frameworks by implementing core components.
 - [Custom kernels for LLMs](https://github.com/john221wick/customKernelLLMs) — basic benchmarking kernel backends against a GPT model, from torch to Triton to raw CUDA.
-- [Sandbox for agents](https://github.com/john221wick/agentSandbox) — custom, secure, isolated sandbox for DeepAgents, built without containers or VMs and adhering to the SandboxBackendProtocol.
+- [Sandbox for agents](https://github.com/john221wick/deepagents-sandbox) — custom, secure, isolated sandbox for DeepAgents, built without containers or VMs and adhering to the SandboxBackendProtocol.
+- [RL environment GPU Scheduler](https://github.com/john221wick/rl-gpu-schedular) — RL environment for simulated GPU scheduling of mixed training and inference jobs.
 - [RL environment for code optimization](https://github.com/john221wick/rl-codePerf) - openEnv Environment for RL-Based Code Optimization using perf, valgrind etc.
   
 ## Old Projects
