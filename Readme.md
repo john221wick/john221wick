@@ -30,7 +30,7 @@ I build AI, infra, and Linux-based systems.
 - [Medicos](https://medico-azure-eight.vercel.app/) —  AI medical diagnosis platform where an LLM orchestrator tool-calls specialist models trained on real clinical datasets across dermatology, radiology, cardiology, and more.
 - [Hiring Platform](https://project-xtest.vercel.app) — interview platform based on real-life coding challenges
 - [Boilerplate Generator](https://codegen-k5yp.vercel.app) — generates boilerplate from stack, architecture, and app requirements like for generating pytorch code or gpt block etc.
-- [Perplexity clone](https://perplexity.john221wick.in/) — perplexity clone with features like deepsearch, article writing, (computer use coming soon via deepagents)
+- [Perplexity clone](https://perplexity.john221wick.in/) — perplexity clone with features like deepsearch, pdf creation etc with persistence workspace (like computer use in perplexity).
 - [LawGPT](https://lawgpt.john221wick.in/) — practice law with ai (Smart India Hackathon 2024 Project)
   
 ## Selected Certifications
