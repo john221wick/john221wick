@@ -4,11 +4,11 @@ I build AI, infra, and Linux-based systems.
 
 ## Ongoing Projects
 
-- [Code Executor](https://github.com/john221wick/c-executor) —  Code executor for running untrusted code, No containers, VMs, Native support for gpus.
 - [GPU Orchestrator](https://github.com/john221wick/gpu-orchestrator) — Built a SLURM-like topology-aware GPU scheduler for multi-GPU servers (single node).
+- [Sandbox for agents](https://github.com/john221wick/deepagents-sandbox) — custom, secure, isolated sandbox for DeepAgents, built without containers or VMs and adhering to the SandboxBackendProtocol.
+- [Code Executor](https://github.com/john221wick/c-executor) —  Code executor for running untrusted code, No containers, VMs, Native support for gpus.
 - [Building PyTorch](https://github.com/john221wick/making-pytorch) — understanding deep learning frameworks by implementing core components.
 - [Custom kernels for LLMs](https://github.com/john221wick/customKernelLLMs) — basic benchmarking kernel backends against a GPT model, from torch to Triton to raw CUDA.
-- [Sandbox for agents](https://github.com/john221wick/deepagents-sandbox) — custom, secure, isolated sandbox for DeepAgents, built without containers or VMs and adhering to the SandboxBackendProtocol.
 - [RL environment GPU Scheduler](https://github.com/john221wick/rl-gpu-schedular) — RL environment for simulated GPU scheduling of mixed training and inference jobs.
 - [RL environment for code optimization](https://github.com/john221wick/rl-codePerf) - openEnv Environment for RL-Based Code Optimization using perf, valgrind etc.
   
@@ -22,10 +22,12 @@ I build AI, infra, and Linux-based systems.
 
 ## Selected Product Work
 
+- [Gitosh](https://gitosh.john221wick.in) — GitHub alternative with live code execution, in-place editing with code executor, built-in CI.
 - [CP Platform](https://cp.john221wick.in) — competitive programming platform with problems divided into categories, and real life use cases.
 - [Interview Platform](https://chat.john221wick.in) — interview prep platform with praciting system design, oops, etc with ai feedback.
 - [Daily Updates Platform](https://prepozone.com/) — high-signal updates across news, jobs, and results for government jobs.
 - [AI-UPSC Platform](https://ai.prepozone.com/) — ai for answer writing and evaluation for upsc.
+- [Medicos](https://medico-azure-eight.vercel.app/) —  AI medical diagnosis platform where an LLM orchestrator tool-calls specialist models trained on real clinical datasets across dermatology, radiology, cardiology, and more.
 - [Hiring Platform](https://project-xtest.vercel.app) — interview platform based on real-life coding challenges
 - [Boilerplate Generator](https://codegen-k5yp.vercel.app) — generates boilerplate from stack, architecture, and app requirements like for generating pytorch code or gpt block etc.
 - [Perplexity clone](https://perplexity.john221wick.in/) — perplexity clone with features like deepsearch, article writing, (computer use coming soon via deepagents)
