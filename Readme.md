@@ -4,7 +4,7 @@ I build AI, infra, and Linux-based systems.
 
 ## Ongoing Projects
 
-- [GPU Orchestrator](https://github.com/john221wick/gpu-orchestrator) — Built a SLURM-like topology-aware GPU scheduler for multi-GPU servers (single node).
+- [GPU Orchestrator](https://github.com/john221wick/gpuSchedularSN) — Built a SLURM-like topology-aware GPU scheduler for multi-GPU servers (single node).
 - [Sandbox for agents](https://github.com/john221wick/deepagents-sandbox) — custom, secure, isolated sandbox for DeepAgents, built without containers or VMs and adhering to the SandboxBackendProtocol.
 - [Code Executor](https://github.com/john221wick/c-executor) —  Code executor for running untrusted code, No containers, VMs, Native support for gpus.
 - [Building PyTorch](https://github.com/john221wick/making-pytorch) — understanding deep learning frameworks by implementing core components.
