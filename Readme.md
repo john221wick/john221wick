@@ -6,6 +6,7 @@ I build AI, infra, and Linux-based systems.
 
 - [GPU Schedular](https://github.com/john221wick/gpuSchedularSN) — Built a SLURM-like topology-aware GPU scheduler for multi-GPU servers (single node).
 - [Sandbox for agents](https://github.com/john221wick/deepagents-sandbox) — custom, secure, isolated sandbox for DeepAgents, built without containers or VMs and adhering to the SandboxBackendProtocol.
+- [Postgres Monitor](https://github.com/john221wick/postgresMonitor) - Remote first postgres monitor, helps manage db on vps or remote pc easily, like GUI for postgresSQL.
 - [Code Executor](https://github.com/john221wick/c-executor) —  Code executor for running untrusted code, No containers, VMs, Native support for gpus.
 - [Building PyTorch](https://github.com/john221wick/making-pytorch) — understanding deep learning frameworks by implementing core components.
 - [Custom kernels for LLMs](https://github.com/john221wick/customKernelLLMs) — basic benchmarking kernel backends against a GPT model, from torch to Triton to raw CUDA.
