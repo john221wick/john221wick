@@ -28,7 +28,7 @@ I build AI, infra, and Linux-based systems.
 - [Interview Platform](https://chat.john221wick.in) — interview prep platform with praciting system design, oops, etc with ai feedback.
 - [Daily Updates Platform](https://prepozone.com/) — high-signal updates across news, jobs, and results for government jobs.
 - [AI-UPSC Platform](https://ai.prepozone.com/) — ai for answer writing and evaluation for upsc.
-- [Medicos](https://medico-azure-eight.vercel.app/) —  AI medical diagnosis platform where an LLM orchestrator tool-calls specialist models trained on real clinical datasets across dermatology, radiology, cardiology, and more.
+- [Medicos](https://medico.john221wick.in/) —  AI medical diagnosis platform where an LLM orchestrator tool-calls specialist models trained on real clinical datasets across dermatology, radiology, cardiology, and more.
 - [Hiring Platform](https://project-xtest.vercel.app) — interview platform based on real-life coding challenges
 - [Boilerplate Generator](https://codegen-k5yp.vercel.app) — generates boilerplate from stack, architecture, and app requirements like for generating pytorch code or gpt block etc.
 - [Perplexity clone](https://perplexity.john221wick.in/) — perplexity clone with features like deepsearch, pdf creation etc with persistence workspace (like computer use in perplexity).
